@@ -1,0 +1,7 @@
+IDEAS
+
+* Have in browser console appear once user enters javascrpt page.
+
+* Ideally nice console output display on the bottom 
+
+* 
